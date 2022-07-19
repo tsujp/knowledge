@@ -1,0 +1,6 @@
+
+
+// std.log vs. std.debug.print, generic Writer, ala:
+"In Zig, the standard output writer's print function is allowed to fail because it is actually a function defined as part of a generic Writer."
+
+// Struct Literals
